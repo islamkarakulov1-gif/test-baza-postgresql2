@@ -1,0 +1,3 @@
+README
+npm init -y 
+npm install express pg dotenv
